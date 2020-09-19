@@ -1,2 +1,2 @@
-# LeetCode
+# Code
 代码
